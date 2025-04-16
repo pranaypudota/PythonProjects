@@ -15,6 +15,6 @@ while True:
         pag.moveTo(x, y, 0.5)
         curr_cords = pag.position()
     print (f"AFk Counter: {afk_counter}")
-    time.sleep(2)
+    time.sleep(1)
 
 
