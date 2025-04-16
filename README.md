@@ -1,2 +1,2 @@
-# Zoho-Sprints-Python
-This repo contail all the tasks given in spints 
+# Other Python Pojects
+This repo contail other projects that i took up on
